@@ -9,6 +9,9 @@
     <a href="https://medium.com/@vignesh3967" target="_blank">
         <img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
     </a>
+    <a href="YOUR_GOOGLE_DRIVE_LINK" target="_blank">
+        <img src="https://img.shields.io/badge/-Resume-FFA500?&style=for-the-badge&logo=GoogleDrive&logoColor=white" />
+    </a>
 </div>
 
 ## Brief Introduction
