@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+
+
 <h1 align="center">
   <a href="https://github.com/Vignesh0408">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Hello,+I'm+Vignesh+Ambaykar;Cybersecurity+Professional+%F0%9F%94%92;" alt="Typing SVG" />
