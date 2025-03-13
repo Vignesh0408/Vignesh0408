@@ -38,7 +38,8 @@ to a Security Operations Center (SOC) as a Security Analyst
 | **SOAR-EDR Integration & Incident Response**  | [Automating Incident Response with LimaCharlie & Tines](https://medium.com/@vignesh3967/soar-edr-project-automating-incident-response-with-limacharlie-and-tines-9754364ec30c) |
 
 
-## Tools
+## 🛠 Tools & Technologies
+
 ### 🖥️ Programming Languages  
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
@@ -86,6 +87,7 @@ to a Security Operations Center (SOC) as a Security Analyst
     <img src="https://img.shields.io/badge/-Active_Directory-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux_(Ubuntu/Kali)-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
+
 
 ## 🎓 Training & Certifications  
 
