@@ -118,7 +118,7 @@ to a Security Operations Center (SOC) as a Security Analyst
     - Implemented an automated incident response framework using **LimaCharlie** and **Tines**.  
     - Automated **threat detection, alerting, and response workflows** to minimize manual intervention.  
     - Integrated **Slack notifications, email alerts, and endpoint isolation** for rapid incident mitigation.  
-    - 📖 **Read More:** [Automating Incident Response with LimaCharlie & Tines](https:https://medium.com/@vignesh3967/soar-edr-project-automating-incident-response-with-limacharlie-and-tines-9754364ec30c)  
+    - 📖 **Read More:** [Automating Incident Response with LimaCharlie & Tines](https://medium.com/@vignesh3967/soar-edr-project-automating-incident-response-with-limacharlie-and-tines-9754364ec30c)  
     
 - **🚀 30-Day SOC Challenge**  
     - 🏗 **Day 1:** Crafting a Logical Diagram  
