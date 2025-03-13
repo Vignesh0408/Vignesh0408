@@ -1,4 +1,9 @@
-# Hello, I'm Vignesh Ambaykar
+<h1 align="center">
+  <a href="https://github.com/Vignesh0408">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Hello,+I'm+Vignesh+Ambaykar;Cybersecurity+Professional+%F0%9F%94%92;" alt="Typing SVG" />
+  </a>
+</h1>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/vigneshambaykar" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
@@ -24,6 +29,7 @@
 ## 🎯 Objective  
 My passion for **Cybersecurity** has led me to specialize in **threat detection, security monitoring, and incident response**.  
 I aim to **empower Security Operations Centers (SOCs)** by leveraging **SIEM, SOAR, and EDR solutions** to **detect, investigate, and mitigate cyber threats efficiently**.  
+
 
 ## 🛠 Skills & Associated Projects
 
