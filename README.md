@@ -1,10 +1,13 @@
+<h3 align="center">
+  🚨 Security Operations Center - Live Alerts 🚨
+</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=⚠️+Unauthorized+Access+Detected!;🛑+DDoS+Attack+in+Progress!;🔥+Malware+Identified!;🔐+Incident+Response+Activated!;⚡+Threat+Hunting+Underway!" alt="SOC Alerts" />
 </p>
 
 <h1 align="center">
   <a href="https://github.com/Vignesh0408">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Hello,+I'm+Vignesh+Ambaykar;&nbsp;Cybersecurity+Professional+%F0%9F%94%92;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=32CD32&center=true&vCenter=true&width=600&height=60&lines=Hello,+I'm+Vignesh+Ambaykar;&nbsp;Cybersecurity+Professional+%F0%9F%94%92;">
   </a>
 </h1>
 
