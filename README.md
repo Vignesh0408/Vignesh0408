@@ -7,11 +7,16 @@
 
 <h1 align="center">
   <a href="https://github.com/Vignesh0408">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=32CD32&center=true&vCenter=true&width=600&height=60&lines=Hello,+I'm+Vignesh+Ambaykar;&nbsp;Cybersecurity+Professional+%F0%9F%94%92;">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=32CD32&center=true&vCenter=true&width=600&height=60&lines=Hello,+I'm+Vignesh+Ambaykar!;🔐+Cybersecurity+Professional;🛡️+SOC+Analyst+%26+Threat+Hunter;">
   </a>
 </h1>
 
-<div align="center">
+
+<p align="center">
+    <strong>🔗 Want to Connect?</strong>
+</p>
+
+<p align="center">
     <a href="https://www.linkedin.com/in/vigneshambaykar" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
@@ -24,14 +29,25 @@
     <a href="https://drive.google.com/file/d/1O5YCMClAjVdk7HV4dwEwFCJBiFeR7z_t/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/-Resume-FFA500?&style=for-the-badge&logo=GoogleDrive&logoColor=white" />
     </a>
-</div>
+</p>
 
 ## 🔥 About Me  
 - 🛡 **Aspiring Cybersecurity Professional** with a passion for **Threat Detection, Security Operations, and Incident Response**.  
 - 🏆 Enthusiastic about **Cybersecurity Automation, Threat Hunting, and Log Analysis**.  
 - 🔍 Hands-on experience through **security projects, attack simulations**.  
 - 🚀 Continuously learning and experimenting with **SIEM, SOAR, EDR, and Network Security tools**.  
-- 🎯 Eager to apply my knowledge and skills to **protect digital assets and mitigate cyber threats**.  
+- 🎯 Eager to apply my knowledge and skills to **protect digital assets and mitigate cyber threats**.
+
+## 🔥 My Top Cybersecurity Skills 🔥
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Security_Operations_(SIEM,_SOAR,_EDR)-000000?style=for-the-badge&logo=Splunk&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/-Incident_Detection_&_Response-005571?style=for-the-badge&logo=Security&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/-Traffic_Analysis_&_Threat_Hunting-4682B4?style=for-the-badge&logo=Wireshark&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/-Security_Monitoring_&_Log_Analysis-0078D4?style=for-the-badge&logo=Elastic&logoColor=white" />
+</p>
+
+
 
 ## 🎯 Objective  
 My passion for **Cybersecurity** has led me to specialize in **threat detection, security monitoring, and incident response**.  
